@@ -44,6 +44,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/abhinav-12cc/abhinav-12cc/output/snake.svg" alt="Snake animation" />
-
 ###
